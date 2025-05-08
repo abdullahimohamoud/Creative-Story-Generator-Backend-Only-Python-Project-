@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+...your local content...
+=======
+...remote content...
+>>>>>>> main
 # Story Generator
 
 <p align="center">
@@ -82,3 +87,7 @@ Let your imagination run wild! Every story is a new journey.
 <p align="center" style="color:#ff69b4; font-size:1.2em;">
   Made with <b>love</b> by <a href="https://github.com/uncannystranger">@uncannystranger</a> 🌟
 </p>
+=======
+# Creative-Story-Generator-Backend-Only-Python-Project-
+A Python-only backend project that generates unique short stories by randomly combining characters, settings, conflicts, and twists from local files. It uses the random module and saves outputs as text. Optional voice narration and user input make it a fun, creative storytelling tool.
+>>>>>>> 2283db1bcc6cb6d292789941cf1d95304e636580
